@@ -1,7 +1,10 @@
-## 🍥 Mangaze 
-<img src="https://files.catbox.moe/yqweov.png" align="right" height="350vw">
+## 🍥 Mangaze
+<img src="https://i.imgur.com/tHB2x4W.png" align="right" height="350vw">
 
 `Mangaze` is a manga provider api, scraping data/info from [`Mangareader`](https://mangareader.to)
+
+## Documentation
+`Coming Soon`
 
 ## Installation
 - Clone the repository
