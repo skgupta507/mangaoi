@@ -1,6 +1,6 @@
 {
-    "name": "mangaze",
-    "version": "0.1.0",
+    "name": "mangaoi",
+    "version": "0.1.1",
     "description": "manga reading provider api.",
     "main": "index.js",
     "type": "module",
@@ -9,10 +9,11 @@
         "start": "node ."
     },
     "dependencies": {
-        "@consumet/extensions": "^1.5.6",
+        "apicache-plus": "^2.3.1",
         "axios": "^1.6.8",
         "cheerio": "^1.0.0-rc.12",
         "cors": "^2.8.5",
+        "dotenv": "^16.4.5",
         "express": "^4.19.2",
         "nodemon": "^3.1.0"
     },

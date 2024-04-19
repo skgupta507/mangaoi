@@ -1,2 +1,3 @@
 import API from "./src/main.js";
-API.listen(3000, () => console.log("API is running..."));
+// Listen to requests
+API.listen(8080, () => console.log("Listening..."));
