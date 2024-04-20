@@ -15,6 +15,7 @@ git clone https://github.com/sckoorp/mangaze.git
 ```sh
 npm install
 ```
+- Rename the `.env.example` file to `.env`
 - Run the dev server
 ```sh
 npm run dev
